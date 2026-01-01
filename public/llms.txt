@@ -1,0 +1,61 @@
+# Dror Lahav - Jewelry Design — Generative Engine Optimization Map
+
+> A jewelry and diamonds business.
+
+---
+
+## Pages
+
+### Home
+https://dror-lahav-jewelry-design-87da2e74.zappy5.app
+Discover exquisite round brilliant cut diamond rings and ethically sourced engagement rings. Expert craftsmanship meets timeless elegance at Dror Lahav Jewelry Design.
+
+### Collections
+https://dror-lahav-jewelry-design-87da2e74.zappy5.app/collections
+Explore our curated collections of diamond jewelry including tennis bracelets, pendants, earrings, and the exclusive diamond angel collection. Ethically sourced luxury pieces.
+
+### Engagement Rings
+https://dror-lahav-jewelry-design-87da2e74.zappy5.app/engagement-rings
+Find your perfect round brilliant cut diamond ring from our ethically sourced engagement ring collection. Expert guidance for young men seeking the ideal engagement ring.
+
+### About
+https://dror-lahav-jewelry-design-87da2e74.zappy5.app/about
+Learn about Dror Lahav's passion for creating exquisite diamond jewelry. Discover our commitment to ethical sourcing, masterful craftsmanship, and personalized service.
+
+### Contact
+https://dror-lahav-jewelry-design-87da2e74.zappy5.app/contact
+Contact Dror Lahav Jewelry Design to schedule a private consultation for engagement rings, diamond jewelry, or custom design services. We're here to help.
+
+## Legal & Policy
+
+### Privacy Policy
+https://dror-lahav-jewelry-design-87da2e74.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dror-lahav-jewelry-design-87da2e74.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dror-lahav-jewelry-design-87da2e74.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Dror Lahav - Jewelry Design
+Dror Lahav - Jewelry Design is a business in the jewelry and diamonds industry.
+
+## Target Audience
+young men seeking engagement rings, and diverse clientele for diamond jewelry including tennis bracelets, diamond pendants, and diamond earrings
+
+## Industry
+jewelry and diamonds
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://dror-lahav-jewelry-design-87da2e74.zappy5.app/sitemap.xml
+- **Robots.txt**: https://dror-lahav-jewelry-design-87da2e74.zappy5.app/robots.txt

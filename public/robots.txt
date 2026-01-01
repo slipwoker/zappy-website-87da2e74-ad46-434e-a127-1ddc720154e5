@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dror-lahav-jewelry-design-87da2e74.zappy5.app/sitemap.xml
